@@ -1,2 +1,8 @@
-# Hola, Soy Esteban Soto
-Administrador de Sistemas operativos y Desarrollador Web
+# Hola, Soy Esteban Sotov 👋
+## Administrador de Sistemas operativos en Red y amante del desarrollo
+
+
+
+## Métodos de contacto
+- 📧 **Gmail**: esotsaldev@gmail.com
+- 💼 **LinkedIn**: 
