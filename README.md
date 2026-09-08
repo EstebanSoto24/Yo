@@ -3,6 +3,8 @@
 Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la infraestructura moderna. Me mueve cacharrear en mi propio homelab y entender cómo funcionan internamente los sistemas.
 
 ---
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esotsaldev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-soto-salguero-553a38319)
 
 ### 🛠️ Stack Tecnológico & Herramientas
 
