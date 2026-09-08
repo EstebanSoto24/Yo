@@ -1,10 +1,15 @@
-### Hola, soy Esteban Soto 👋 | Junior SysAdmin
+<div align="center">
+# Hola, soy Esteban Soto  
+
+## **Junior SysAdmin | Junior DevOps Engineer | Junior Cloud Engineer**
 
 Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la infraestructura moderna. Me mueve cacharrear en mi propio homelab y entender cómo funcionan internamente los sistemas.
 
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esotsaldev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-soto-salguero-553a38319)
+
+</div>
 
 ### 🛠️ Stack Tecnológico & Herramientas
 
@@ -20,7 +25,7 @@ Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la inf
 
 
 * **[Homelab con Debian]():** Despliegue y orquestación de servicios críticos (Nextcloud, n8n, vaultwarden, servidor de minecraft y prism) bajo arquitecturas de contenedores eficientes, bajo almacenamiento redundante gestionado con ZFS y conexión y red gestionada con Traefik junto con proxy Cloudflare.
-* **[Sitio Web con Wordpress + Elementor]():** Creación y despliegue de sitio web creado con Wordpress con elementor, infraestructura en VPS de hostinger.
+* **[Sitio Web con Wordpress + Elementor](https://clinica.estebansoto.space):** Creación y despliegue de sitio web creado con Wordpress con elementor, infraestructura en VPS de hostinger.
 
 
 ---
@@ -30,7 +35,7 @@ Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la inf
 Mi objetivo a corto/medio plazo es consolidar mis competencias técnicas con las siguientes certificaciones oficiales:
 
 * [ ] **GitHub Foundations** (En preparación)
-* [ ] **AWS Certified Solutions Architect – Associate**
+* [ ] **AWS Certified Solutions Architect – Associate** (En preparación)
 * [ ] **Certified Kubernetes Administrator (CKA)**
 
 ---
@@ -40,3 +45,9 @@ Mi objetivo a corto/medio plazo es consolidar mis competencias técnicas con las
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EstebanSoto24&show_icons=true&theme=tokyonight" alt="Esteban's GitHub Stats" />
 </p>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=EstebanSoto24&color=blueviolet&style=for-the-badge)
+
+</div>
