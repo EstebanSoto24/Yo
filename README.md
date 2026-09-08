@@ -23,7 +23,45 @@ Técnico titulado en Grado superior de **Administración de Sistemas Operativos 
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+### 💻 Tecnologías y Herramientas que uso en mi día a dia
+
+#### Sistemas Operativos
+<p>
+  <!-- Sistemas Operativos -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ArchLinux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
+  
+</p>
+
+#### Virtualización y Cloud
+
+<p>
+  <!-- Virtualización y Cloud -->
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C9?style=flat&logo=traefik&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+#### Automatización y Redes
+
+<p>
+  <!-- Automatización y Redes -->
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
+
+#### Otras
+
+
+---
+
+### 🛠️ Stack Tecnológico y Conocimientos
 
 * **Sistemas Operativos:** Arch Linux(Actual) Manjaro, Fedora, Ubuntu y Debian(Usadas), Windows Server, Active Directory y LDAP.
 * **Redes y Seguridad:** DHCP, DNS, VPN, SSH, iptables, ZFS, GPG, OpenSSL.
