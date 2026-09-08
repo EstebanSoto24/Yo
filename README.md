@@ -1,24 +1,25 @@
 ### Hola, soy Esteban Soto 👋 | Junior SysAdmin
 
-Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la infraestructura moderna. Me mueve cacharrear en mi propio homelab y entender cómo funcionan las tripas de los sistemas, desde el metal hasta la nube.
+Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la infraestructura moderna. Me mueve cacharrear en mi propio homelab y entender cómo funcionan internamente los sistemas.
 
 ---
 
 ### 🛠️ Stack Tecnológico & Herramientas
 
-* **Sistemas Operativos:** Linux (Debian, Ubuntu, Fedora, Arch), Windows Server, Active Directory, LDAP.
-* **Redes & Seguridad:** DHCP, DNS, VPN, SSH, iptables, ZFS, GPG, OpenSSL.
-* **Virtualización & Contenedores:** Proxmox, Docker, Kubernetes, Traefik, Cloudflare.
-* **Automatización & IA:** n8n, Ollama (Self-hosted AI), integración de APIs, Bash, PowerShell, Python.
-* **Bases de Datos & Web:** SQL, PHP, Apache, Nginx, WordPress, Nextcloud.
+* **Sistemas Operativos:** Arch Linux(Actual) Manjaro, Fedora, Ubuntu y Debian(Usadas), Windows Server, Active Directory y LDAP.
+* **Redes y Seguridad:** DHCP, DNS, VPN, SSH, iptables, ZFS, GPG, OpenSSL.
+* **Virtualización y Contenedores:** Proxmox, Docker, Kubernetes, Traefik, Cloudflare.
+* **Automatización e IA:** n8n, Ollama, integración de APIs, Bash y Python.
+* **Bases de Datos y Web:** SQL, PHP, Apache, Nginx, WordPress, Nextcloud.
 
 ---
 
 ### 🚀 Mis Proyectos Destacados (Homelab)
 
-* **[Homelab con Debian & ZFS](enlace-a-repo):** Entorno de pruebas autohosteado con gestión de almacenamiento ZFS, reverse proxy usando Traefik y capa de seguridad con Cloudflare.
-* **[Infraestructura Dockerizada](enlace-a-repo):** Despliegue y orquestación de servicios críticos (Nextcloud, n8n, Bitwarden, Ollama) bajo arquitecturas de contenedores eficientes.
-* **[Automatización Avanzada con n8n](enlace-a-repo):** Flujos de trabajo automatizados para procesamiento de datos en JSON, integración de APIs y optimización de tareas internas.
+
+* **[Homelab con Debian]():** Despliegue y orquestación de servicios críticos (Nextcloud, n8n, vaultwarden, servidor de minecraft y prism) bajo arquitecturas de contenedores eficientes, bajo almacenamiento redundante gestionado con ZFS y conexión y red gestionada con Traefik junto con proxy Cloudflare.
+* **[Sitio Web con Wordpress + Elementor]():** Creación y despliegue de sitio web creado con Wordpress con elementor, infraestructura en VPS de hostinger.
+
 
 ---
 
@@ -27,8 +28,8 @@ Técnico en SMR y ASIR apasionado por la automatización, el autohosteo y la inf
 Mi objetivo a corto/medio plazo es consolidar mis competencias técnicas con las siguientes certificaciones oficiales:
 
 * [ ] **GitHub Foundations** (En preparación)
-* [ ] **AWS Certified Solutions Architect – Associate** (Próximo objetivo cloud)
-* [ ] **Certified Kubernetes Administrator (CKA)** (Orquestación avanzada)
+* [ ] **AWS Certified Solutions Architect – Associate**
+* [ ] **Certified Kubernetes Administrator (CKA)**
 
 ---
 
