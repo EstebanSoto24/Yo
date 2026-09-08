@@ -1,8 +1,10 @@
 <div align="center">
-  
-# Hola, soy Esteban Soto  
 
-### **Junior SysAdmin | Junior DevOps Engineer | Junior Cloud Engineer**
+<div text-weight
+Hola, soy Esteban Soto
+----------------------
+
+### **Junior SysAdmin  |  Junior DevOps Engineer  |  Junior Cloud Engineer**
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esotsaldev@gmail.com)
@@ -14,7 +16,13 @@
 
 ### Sobre mí
 
-Técnico titulado en Grado superior de **Administración de Sistemas Operativos en Red** y Grado medio de **Sistemas microinformáticos y Redes**, apasionado por la automatización, el autohosteo y la infraestructura moderna. Me mueve cacharrear en mi propio homelab y entender cómo funcionan internamente los sistemas y soy una persona muy curiosa y me encanta investigar cuando algo me gusta.
+Técnico titulado en Grado superior de **Administración de Sistemas Operativos en Red** y Grado medio de **Sistemas microinformáticos y Redes**, apasionado por la automatización, el autohosteo y la infraestructura moderna. Me mueve cacharrear en mi propio homelab y entender cómo funcionan internamente los sistemas además soy una persona muy curiosa y me encanta investigar cuando algo me llama la atención.
+* Uso un doble boot en mi pc personal con Arch y Windows.
+* Intento estar siempre formado en tecnologías nuevas y me da curiosidad saber como funcionan.
+* Suelo dedicar mucho tiempo libre a la informática.
+* Siempre que aprendo algo nuevo mi mente no para de pensar en aplicarlo en un entorno real.
+
+---
 
 ### 🛠️ Stack Tecnológico y Herramientas
 
