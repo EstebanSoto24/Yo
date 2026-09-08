@@ -1,8 +1,7 @@
 <div align="center">
+  
+# Hola, soy Esteban Soto
 
-<div text-weight
-Hola, soy Esteban Soto
-----------------------
 
 ### **Junior SysAdmin  |  Junior DevOps Engineer  |  Junior Cloud Engineer**
 
